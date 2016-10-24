@@ -54,3 +54,4 @@ var obj6 = obj5.replace(/1/g, 0);
 
 
 print(obj6);
+ 
